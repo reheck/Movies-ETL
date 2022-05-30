@@ -1,4 +1,5 @@
 # Movies-ETL
+## Disclaimer - data files are too large to upload to GitHub, so they are stored locally.
 ## Background
 ### Extract movies data from wikipedia, kaggle, and MovieLens. Transform the data to clean it up. Load it into a SQL database.
 ## Refactoring
